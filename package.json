@@ -1,0 +1,16 @@
+{
+  "name": "calculator-tests",
+  "version": "1.0.0",
+  "description": "Test for calculator app",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Adefolarin Adekunbi",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.0.0",
+    "mocha": "^10.2.0"
+  }
+}
